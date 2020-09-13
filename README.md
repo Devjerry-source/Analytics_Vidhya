@@ -1,7 +1,7 @@
 # Analytics_Vidhya
 Data Science Analytics Vidhya Competition Solution
 
-## LOAN APPROVAL PREDICTION
+## LOAN ELIGIBILITY PREDICTION
 
 ### Predict Loan Eligibility for Dream Housing Finance company
 
