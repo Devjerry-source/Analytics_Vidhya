@@ -3,7 +3,7 @@ Data Science Analytics Vidhya Competition Solution
 
 ## CROSS-SELL PREDICTION
 
-### Predicting the Probability that a Customer Will be Interested in Insuring His/Her Vehicle company
+### Predicting the Probability that a Customer Will be Interested in Insuring His/Her Vehicle in an Insurance Company.
 
 #### PROBLEM STATEMENT
 
